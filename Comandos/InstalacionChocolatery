@@ -6,5 +6,5 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 Ejemplo de Instalacion con Chocolatery
 
- choco install notepadplusplus
-
+choco install notepadplusplus
+choco install velero
