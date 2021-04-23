@@ -8,3 +8,4 @@ Ejemplo de Instalacion con Chocolatery
 
 choco install notepadplusplus
 choco install velero
+choco install chocolateygui
